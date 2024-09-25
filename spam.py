@@ -1,6 +1,6 @@
 #Write a program to generate a personalised spam message based on the user's full name, country and a sum of money
 #Lwazi Somtsewu
-#31 july 2024
+#31 April 2024
 
 name=str(input("Enter first name:\n"))
 surname=str(input("Enter last name:\n"))
